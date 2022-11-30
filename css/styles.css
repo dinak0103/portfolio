@@ -364,6 +364,7 @@ img {
   font-size: var(--smaller-font-size);
 }
 
+
 /* Hide and show projects & skills */
 .filters [data-content] {
   display: none;
